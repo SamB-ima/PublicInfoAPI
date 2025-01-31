@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "W609G+0lk6z8BWyZwWLX7WhbHtmuvDX/NXN8D64ITP0=",
+  "Source": "PublicInfoAPI",
+  "BasePath": "_content/PublicInfoAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
