@@ -31,3 +31,4 @@ C:\Users\imabong\PublicInfoAPI\obj\Debug\net9.0\refint\PublicInfoAPI.dll
 C:\Users\imabong\PublicInfoAPI\obj\Debug\net9.0\PublicInfoAPI.pdb
 C:\Users\imabong\PublicInfoAPI\obj\Debug\net9.0\PublicInfoAPI.genruntimeconfig.cache
 C:\Users\imabong\PublicInfoAPI\obj\Debug\net9.0\ref\PublicInfoAPI.dll
+C:\Users\imabong\PublicInfoAPI\obj\Debug\net9.0\PublicInfoAPI.sourcelink.json
