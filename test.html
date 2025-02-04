@@ -12,7 +12,7 @@
 
     <script>
         function fetchAPI() {
-            fetch("http://localhost:5240/api/info") // Update URL if needed
+            fetch("http://localhost:5240/api/info") 
                 .then(response => response.json())
                 .then(data => {
                     document.getElementById("output").textContent = JSON.stringify(data, null, 2);
